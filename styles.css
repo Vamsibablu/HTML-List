@@ -1,0 +1,13 @@
+form {
+  margin: 10px auto;
+  border: 1px solid blanchedalmond;
+  background: blanchedalmond;
+  min-height: 20rem;
+  width: 60%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+  margin-bottom: 20px;
+}
